@@ -1,4 +1,4 @@
 fn main() {
     println!("Hello, world!");
-    println!("Talvez eu funcione no futuro.\nEscreva código se quiser!");
+    println!("Maybe I work in the future.\nWrite code if you want!");
 }
