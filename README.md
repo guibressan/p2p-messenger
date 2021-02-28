@@ -1,5 +1,4 @@
 # p2p-messenger
+A peer to peer messenger written with Rust Lang
 
-Um messenger peer-to-peer escrito em Rust Lang
-
-Comunicação entre os nós via TOR e trocas de dados criptografados com RSA.
+Communication between nodes through TOR and RSA encrypted messages.
